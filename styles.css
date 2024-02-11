@@ -38,21 +38,21 @@ position: absolute;
   background-position: center center;
 }
 .fixed-bg.bg-1 {
-   background-image: url('felix-besombes-EzrHLVd83h0-unsplash.jpg');
+   background-image: url('Nadia9124.github.io/felix-besombes-EzrHLVd83h0-unsplash.jpg');
   background-repeat: no repeat;
    background-attachment: fixed;
   background-size: cover;
   margin: 0 auto;  
 }
 .bg-2 {
-   background-image: url('background2.jpg');
+   background-image: url('Nadia9124.github.io/background2.jpg');
   background-repeat: no repeat;
   background-attachment: fixed;
   background-size: cover;
   margin: 0 auto;
 }
 .fixed-bg.bg-3 {
-  background-image: url('background3.png');
+  background-image: url('Nadia9124.github.io/background3.png');
   background-repeat: no repeat;
    background-attachment: fixed;
   background-size: cover;
