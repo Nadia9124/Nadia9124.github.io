@@ -38,21 +38,21 @@ position: absolute;
   background-position: center center;
 }
 .fixed-bg.bg-1 {
-   background-image: url("../images/felix-besombes-EzrHLVd83h0-unsplash.jpg");
+   background-image: url("felix-besombes-EzrHLVd83h0-unsplash.jpg");
   background-repeat: no repeat;
    background-attachment: fixed;
   background-size: cover;
   margin: 0 auto;  
 }
 .bg-2 {
-   background-image: url("../images/background2.jpg");
+   background-image: url("background2.jpg");
   background-repeat: no repeat;
   background-attachment: fixed;
   background-size: cover;
   margin: 0 auto;
 }
 .fixed-bg.bg-3 {
-  background-image: url("../images/image_2024-02-10_223443886.png");
+  background-image: url("background3.png");
   background-repeat: no repeat;
    background-attachment: fixed;
   background-size: cover;
