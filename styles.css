@@ -52,7 +52,7 @@ position: absolute;
   margin: 0 auto;
 }
 .fixed-bg.bg-3 {
-  background-image: url("../images/image_2024-02-10_223443886.png")
+  background-image: url("../images/image_2024-02-10_223443886.png");
   background-repeat: no repeat;
    background-attachment: fixed;
   background-size: cover;
