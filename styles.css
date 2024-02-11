@@ -38,7 +38,7 @@ position: absolute;
   background-position: center center;
 }
 .fixed-bg.bg-1 {
-   background-image: url(https://iili.io/J1FSwgf.md.jpg);
+   background-image: url("../images/felix-besombes-EzrHLVd83h0-unsplash.jpg");
   background-repeat: no repeat;
    background-attachment: fixed;
   background-size: cover;
