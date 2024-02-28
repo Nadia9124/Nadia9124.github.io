@@ -12,38 +12,32 @@ body {
     max-width: 100%;
     overflow-x: hidden;
 }
-.fixed-bg {
- position: absolute;
-}
+
 #welcome-section {
-   background-image: url('./images/felix-besombes-EzrHLVd83h0-unsplash.jpg');
-  background-repeat: no repeat;
-   background-attachment: fixed;
-  background-size: cover;
-  margin: 0 auto; 
+ background-image: url('./images/felix-besombes-EzrHLVd83h0-unsplash.jpg');
+ background-repeat: no repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ margin: 0 auto; 
 }
 #welcome {
  height: 100vh;
-  width: 100vw;
+ width: 100vw;
  margin-top: 250px;
-  text-align: center;
-font-family: Verdana;
-text-shadow: 2px 2px black;}
+ text-align: center;
+ font-family: Verdana;
+ text-shadow: 2px 2px black;}
 h1 {
   font-size: 50px;
 }
 p {
   font-size: 25px;
 }
-
-.container{
+.container {
 position: absolute;
-
 }
-
-
 #projects {
-   background-image: url('./images/background2.jpg');
+  background-image: url('./images/background2.jpg');
   background-repeat: no repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -52,9 +46,12 @@ position: absolute;
 #contact {
   background-image: url('./images/background3.png');
   background-repeat: no repeat;
-   background-attachment: fixed;
+  background-attachment: fixed;
   background-size: cover;
   margin: 0 auto;
+}
+.fixed-bg {
+ position: absolute;
 }
 #navbar {
   display: flex;
