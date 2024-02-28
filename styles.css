@@ -19,7 +19,7 @@ body {
  background-attachment: fixed;
  background-size: cover;
  margin: 0 auto;
- position: absolute;
+ 
 }
 #welcome {
  height: 100vh;
@@ -49,12 +49,7 @@ p {
   background-size: cover;
   margin: 0 auto;
 }
-.fixed-bg {
- position: absolute;
-}
-.container {
-position: absolute;
-}
+
 #navbar {
   display: flex;
   position: fixed;
