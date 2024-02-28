@@ -12,6 +12,9 @@ body {
     max-width: 100%;
     overflow-x: hidden;
 }
+.fixed-bg {
+ position: absolute;
+}
 #welcome-section {
    background-image: url('./images/felix-besombes-EzrHLVd83h0-unsplash.jpg');
   background-repeat: no repeat;
