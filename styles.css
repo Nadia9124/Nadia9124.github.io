@@ -13,6 +13,11 @@ body {
     overflow-x: hidden;
 }
 #welcome-section {
+   background-image: url('./images/felix-besombes-EzrHLVd83h0-unsplash.jpg');
+  background-repeat: no repeat;
+   background-attachment: fixed;
+  background-size: cover;
+  margin: 0 auto; 
   height: 100vh;
   width: 100vw;
   text-align: center;
@@ -38,11 +43,7 @@ position: absolute;
   background-position: center center;
 }
 .fixed-bg.bg-1 {
-   background-image: url('Nadia9124.github.io/images/felix-besombes-EzrHLVd83h0-unsplash.jpg');
-  background-repeat: no repeat;
-   background-attachment: fixed;
-  background-size: cover;
-  margin: 0 auto;  
+  
 }
 .bg-2 {
    background-image: url('Nadia9124.github.io/images/background2.jpg');
