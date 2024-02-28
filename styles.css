@@ -33,9 +33,7 @@ h1 {
 p {
   font-size: 25px;
 }
-.container {
-position: absolute;
-}
+
 #projects-section {
   background-image: url('./images/background2.jpg');
   background-repeat: no repeat;
@@ -52,6 +50,9 @@ position: absolute;
 }
 .fixed-bg {
  position: absolute;
+}
+.container {
+position: absolute;
 }
 #navbar {
   display: flex;
