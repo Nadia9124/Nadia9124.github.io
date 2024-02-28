@@ -22,6 +22,7 @@ body {
 #welcome {
  height: 100vh;
   width: 100vw;
+ margin-top: 250px;
   text-align: center;
 font-family: Verdana;
 text-shadow: 2px 2px black;}
@@ -37,12 +38,6 @@ position: absolute;
 
 }
 
-.fixed-bg {
-  min-height: 100%;
-  background-repeat: no-repeat;
-  
-  background-position: center center;
-}
 
 #projects {
    background-image: url('./images/background2.jpg');
