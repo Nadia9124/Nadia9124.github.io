@@ -36,14 +36,14 @@ p {
 .container {
 position: absolute;
 }
-#projects {
+#projects-section {
   background-image: url('./images/background2.jpg');
   background-repeat: no repeat;
   background-attachment: fixed;
   background-size: cover;
   margin: 0 auto;
 }
-#contact {
+#contact-section {
   background-image: url('./images/background3.png');
   background-repeat: no repeat;
   background-attachment: fixed;
