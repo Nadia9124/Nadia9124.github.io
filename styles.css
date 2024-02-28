@@ -41,18 +41,16 @@ position: absolute;
   
   background-position: center center;
 }
-.fixed-bg.bg-1 {
-  
-}
-.bg-2 {
-   background-image: url('Nadia9124.github.io/images/background2.jpg');
+
+#projects {
+   background-image: url('./images/background2.jpg');
   background-repeat: no repeat;
   background-attachment: fixed;
   background-size: cover;
   margin: 0 auto;
 }
-.fixed-bg.bg-3 {
-  background-image: url('Nadia9124.github.io/images/background3.png');
+#contact {
+  background-image: url('./images/background3.png');
   background-repeat: no repeat;
    background-attachment: fixed;
   background-size: cover;
